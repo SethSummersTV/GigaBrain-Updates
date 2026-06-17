@@ -22,4 +22,4 @@ The **`stable`** release always holds the current customer build (`latest.yml`, 
 
 - Latest release & installer: https://github.com/SethSummersTV/GigaBrain-Updates/releases/tag/stable
 
-Current version: **1.2.6**
+Current version: **1.2.7**
